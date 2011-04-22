@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* harmonyShed */ = {
+		activeExec = 0;
+		executables = (
+			BE2D3A881360E10A00EF4717 /* harmonyShed */,
+		);
+	};
+	24ADC5111299F60C0014DB75 /* TiAppiOSProxy.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 2769}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 550}";
+			sepNavWindowFrame = "{{29, 59}, {1243, 719}}";
+		};
+	};
+	24CA8A16111161FD0084E2DE /* TiWindowProxy.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 9893}}";
+			sepNavSelRange = "{7009, 0}";
+			sepNavVisRange = "{6549, 1018}";
+		};
+	};
+	24CA8AB0111161FD0084E2DE /* TiProxy.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 12064}}";
+			sepNavSelRange = "{5877, 0}";
+			sepNavVisRange = "{5519, 464}";
+		};
+	};
+	24CA8ABC111161FD0084E2DE /* TiMediaSoundProxy.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 5811}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 582}";
+			sepNavWindowFrame = "{{15, 54}, {1243, 719}}";
+		};
+	};
+	24CA8AE6111161FE0084E2DE /* TiAnimation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 7683}}";
+			sepNavSelRange = "{4283, 0}";
+			sepNavVisRange = "{5186, 706}";
+		};
+	};
+	24CA8B56111161FE0084E2DE /* AppModule.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 5278}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 558}";
+			sepNavWindowFrame = "{{15, 54}, {1243, 719}}";
+		};
+	};
+	24CA916411116F870084E2DE /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 54}, {1243, 719}}";
+		};
+	};
+	24D8E3B5119B9D8A00F8CAA6 /* harmonyShed-iPad */ = {
+		activeExec = 0;
+		executables = (
+			BE2D3A891360E10A00EF4717 /* harmonyShed-iPad */,
+		);
+	};
+	24F620521199F26500EEAD3C /* TiApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 1326}}";
+			sepNavSelRange = "{47, 0}";
+			sepNavVisRange = "{0, 684}";
+		};
+	};
+	24F620531199F26500EEAD3C /* TiApp.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 10244}}";
+			sepNavSelRange = "{105, 0}";
+			sepNavVisRange = "{4876, 574}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = BE2D3A881360E10A00EF4717 /* harmonyShed */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* harmonyShed */;
+		breakpoints = (
+			BEA3FD051360E9B3000ED843 /* TiApp.mm:227 */,
+		);
+		codeSenseManager = BE2D3AD71360E12A00EF4717 /* Code sense */;
+		executables = (
+			BE2D3A881360E10A00EF4717 /* harmonyShed */,
+			BE2D3A891360E10A00EF4717 /* harmonyShed-iPad */,
+			BE2D3A8A1360E10A00EF4717 /* harmonyShed-universal */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					606,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					137,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325118312;
+			PBXWorkspaceStateSaveDate = 325118312;
+		};
+		perUserProjectItems = {
+			BEA3FD151360EA2D000ED843 /* PBXTextBookmark */ = BEA3FD151360EA2D000ED843 /* PBXTextBookmark */;
+			BEA3FD1B1360EA6A000ED843 /* PBXTextBookmark */ = BEA3FD1B1360EA6A000ED843 /* PBXTextBookmark */;
+		};
+		sourceControlManager = BE2D3AD61360E12A00EF4717 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 520}}";
+			sepNavSelRange = "{104, 0}";
+			sepNavVisRange = "{0, 843}";
+			sepNavWindowFrame = "{{5, 59}, {1243, 719}}";
+		};
+	};
+	BE2D3A881360E10A00EF4717 /* harmonyShed */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = harmonyShed;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	BE2D3A891360E10A00EF4717 /* harmonyShed-iPad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "harmonyShed-iPad";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	BE2D3A8A1360E10A00EF4717 /* harmonyShed-universal */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "harmonyShed-universal";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	BE2D3AD61360E12A00EF4717 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BE2D3AD71360E12A00EF4717 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BEA3FD051360E9B3000ED843 /* TiApp.mm:227 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 24F620531199F26500EEAD3C /* TiApp.mm */;
+		functionName = "-hideSplash:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 227;
+		location = harmonyShed;
+		modificationTime = 325118406.571706;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	BEA3FD151360EA2D000ED843 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA8A16111161FD0084E2DE /* TiWindowProxy.m */;
+		name = "TiWindowProxy.m: 371";
+		rLen = 0;
+		rLoc = 7009;
+		rType = 0;
+		vrLen = 992;
+		vrLoc = 6549;
+	};
+	BEA3FD1B1360EA6A000ED843 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA8A16111161FD0084E2DE /* TiWindowProxy.m */;
+		name = "TiWindowProxy.m: 371";
+		rLen = 0;
+		rLoc = 7009;
+		rType = 0;
+		vrLen = 1018;
+		vrLoc = 6549;
+	};
+	DABB369A12E8CB280026A6EA /* harmonyShed-universal */ = {
+		activeExec = 0;
+		executables = (
+			BE2D3A8A1360E10A00EF4717 /* harmonyShed-universal */,
+		);
+	};
+}
