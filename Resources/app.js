@@ -60,9 +60,8 @@ if (Titanium.Media.audioPlaying) {
 
 var win = win1;
 
-//TODO: USE OBJECT
 var sound1 = Titanium.Media.createSound();
-sound1.url='bass_c2.m4a'; // For testing #1913
+sound1.url='bass_c2.m4a'; 
 var sound2 = Titanium.Media.createSound();
 sound2.url='piano_e2.m4a';
 var sound3 = Titanium.Media.createSound();
@@ -156,7 +155,7 @@ var volumeUp = Titanium.UI.createButton({
 });
 volumeUp.addEventListener('click', function()
 {
-	if (sound.volume < 1.0)
+	if (sound1.volume < 1.0)
 	{
 		sound1.volume += 0.1;
 		sound2.volume += 0.1;
@@ -212,10 +211,10 @@ var looping = Titanium.UI.createButton({
 });
 looping.addEventListener('click', function()
 {
-	sound1.looping = (sound.looping==false)?true:false;
-	sound2.looping = (sound.looping==false)?true:false;
-	sound3.looping = (sound.looping==false)?true:false;
-	looping.title = 'Looping (' + sound.isLooping() + ')';
+	sound1.looping = (sound1.looping==false)?true:false;
+	sound2.looping = (sound2.looping==false)?true:false;
+	sound3.looping = (sound3.looping==false)?true:false;
+	looping.title = 'Looping (' + sound1.isLooping() + ')';
 });
 win.add(looping);
 
@@ -255,7 +254,7 @@ var i = setInterval(function()
 {
 	if (sound1.isPlaying())
 	{
-		Ti.API.info('time ' + sound.time);
+		Ti.API.info('time ' + sound1.time);
 		pb.value = sound1.time;
 
 	}
