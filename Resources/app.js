@@ -66,7 +66,7 @@ var sound2 = Titanium.Media.createSound();
 sound2.url='piano_e2.m4a';
 var sound3 = Titanium.Media.createSound();
 sound3.url='piano_b2.m4a';
-
+//
 //
 // PLAY
 //
