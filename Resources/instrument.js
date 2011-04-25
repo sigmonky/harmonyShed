@@ -14,7 +14,7 @@ var makeInstrument  = function() {
       return privateName;
     },
     playNote:function(noteRequest) {
-    	
+    	//
     }
   }  
 };
