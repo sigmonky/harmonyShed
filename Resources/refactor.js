@@ -2,23 +2,20 @@
  * @author Weinstein, Randy 
  */
 
-var harmonyShed = {};
+var HSHED = {
+	
+	var band = {
+		var name,
+		        players  = [];
+	} ;
+	band.addPlayer =function(name) {
+		
+	}
+	var song = {}
+	var library = {}
+	var players = {};
+	players.makePlayer = function( name,instrument ) {
+		return {"name":name,"instrument":instrument};
+	}
+};
 
-harmonyShed.band = function() {
-  var players = {};
-  return {
-     addPlayer:function(name) {
-         players["name"] = name;
-         players["toneBank"] = {};
-     },
-     addTone:function(playerName,noteName,noteURL) {
-         players[playerName].toneBank[noteName] = noteURL
-     },
-     getPlayers: function() {
-        return players;
-     },
-     getToneBank: function(playerName) {
-        return players[playerName].toneBank;
-     }
-  }
-}
